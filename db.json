@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 6
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 9
     },
     {
       "id": 3,
@@ -46,7 +46,37 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 0
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 2,
+      "id": 9
+    },
+    {
+      "name": "Bullseye",
+      "image": "https://www.kisspng.com/static/img/grey.gif",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Bullseye2",
+      "image": "https://png2.kisspng.com/sh/0c52bf35ba5e7b0809410dadb2b3bfec/L0KzQYm3VMI4N5R0fZH0aYP2gLBuTfJ2dJ14fetuLXrog8Twhb10cJZ3gdhvLYfyf7XCTfhweqRqRdRAeoqwfLruiQR6bZJ3ReZ4eT32hLF5mb1kaaN5h9H3LUXkdYPrgBQzapQ7S6sALka7QoiAVsM6OWY3TKo6N0GzRoiAUccveJ9s/kisspng-bullseye-jessie-sheriff-woody-horse-buzz-lightyear-toy-story-cartoon-5ae2dcd2bc6395.6827763915248171067717.png",
+      "likes": 2,
+      "id": 11
+    },
+    {
+      "name": "Ken",
+      "image": "https://png2.kisspng.com/sh/a76b5fef14f8c266b7e9e85cf5c460be/L0KzQYm3VMA0N5pnfZH0aYP2gLBuTfpme6RufZ90ZX6wesb6lPlvNZtqfN5yY3GwhLFCTgN1d6NARaU2YnH1crrsTftmdl46edU8MHS3RrLqUvZkOV82S6YDNke6SYK8UsI4O2M4TaoCMEW2PsH1h5==/kisspng-jessie-ken-justin-jedlica-toy-story-3-barbie-ken-5ac30d46ac2fc1.1348677915227323587053.png",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Barbie",
+      "image": "https://png2.kisspng.com/sh/f290e19bdf5b79ec461c33f52bd3c288/L0KzQYm3V8AyN5twiZH0aYP2gLBuTgRwgV54jNH7eT3udbA0gvFzappqRd54dIOwf37vlfdocZ8yetdqcj3lhcvDTfxqb146eqUDNUHpQYm4hMI6Ol89Sqo8MkO1Q4K8U8A1OWg7TKsAM0G7PsH1h5==/kisspng-toy-story-ken-barbie-lots-o-huggin-bear-buzz-lig-5b3851f181d292.8283232315304176495318.png",
+      "likes": 0,
+      "id": 13
     }
   ]
 }
