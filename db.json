@@ -4,19 +4,19 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 11
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 1
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 6
     },
     {
       "id": 4,
@@ -47,6 +47,41 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Gregory",
+      "image": "https://gear.blizzard.com/media/catalog/product/cache//550x550/a4e40ebdc3e371adff845072e1c73f37/w/o/wow-mischief-plush-front-gallery.png",
+      "id": 9
+    },
+    {
+      "name": "Killer",
+      "image": "https://gear.blizzard.com/media/catalog/product/cache//550x550/a4e40ebdc3e371adff845072e1c73f37/w/o/wow-mischief-plush-front-gallery.png",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Freedom",
+      "image": "https://shop.whitehousehistory.org/media/catalog/product/cache/1/image/700x/9df78eab33525d08d6e5fb8d27136e95/p/l/plush_eagle_angle.png",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Freedom2",
+      "image": "https://cdn.shopify.com/s/files/1/1971/4333/products/ChickenWhite_2000x.png?v=1501888144",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Happy",
+      "image": "https://vignette.wikia.nocookie.net/magic-hag/images/5/50/Overwatch-pachimari-plush.png/revision/latest?cb=20171212042346",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Larry",
+      "image": "https://images2.storyjumper.com/transcoder.png?trim&id=04fdc7368&maxw=512&maxh=512",
+      "likes": 1,
+      "id": 14
     }
   ]
 }
