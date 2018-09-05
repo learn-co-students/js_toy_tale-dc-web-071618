@@ -22,49 +22,31 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 12
+      "likes": 4
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 8
+      "likes": 1
     },
     {
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 7
+      "likes": 2
     },
     {
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 5
+      "likes": 0
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": 6
-    },
-    {
-      "name": "Fido",
-      "image": "file:///Users/jeff/dev/javascript/space-invaders-dc-web-071618/js_toy_tale-dc-web-071618/image.png",
-      "likes": 6,
-      "id": 9
-    },
-    {
-      "name": "Fido",
-      "image": "file:///Users/jeff/dev/javascript/space-invaders-dc-web-071618/js_toy_tale-dc-web-071618/image.png",
-      "likes": 5,
-      "id": 10
-    },
-    {
-      "name": "Mr. Potato Head 2",
-      "image": "https://d3nevzfk7ii3be.cloudfront.net/igi/JPpjbao64ZTJAPmV.large",
-      "likes": 7,
-      "id": 11
+      "likes": -2
     }
   ]
 }
