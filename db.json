@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 43
     },
     {
       "id": 2,
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Baby",
+      "image": "https://target.scene7.com/is/image/Target/52160533?wid=1400",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Bop-It!",
+      "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiNupO7_KbdAhXPl-AKHfdTDksQjRx6BAgBEAU&url=https%3A%2F%2Fwww.amazon.com%2FHasbro-42383-Bop-It-Extreme%2Fdp%2FB0006GWQ2S&psig=AOvVaw33nZJjJhVQMZcjFF-TbIql&ust=1536343711004011",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Bop-It!",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/toys/detail-page/B001RNC1GK-1-lg.jpg",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
